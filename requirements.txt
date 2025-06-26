@@ -1,0 +1,6 @@
+chainlit
+python-dotenv
+openai
+PyMuPDF
+pdfplumber
+selenium
